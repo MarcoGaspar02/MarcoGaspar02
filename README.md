@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software
 
 Você pode me encontrar ou me contactar através das seguintes plataformas:
 
-- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/marco/](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
+- **LinkedIn**: [Marco Gaspar](https://www.linkedin.com/in/marco/](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
 
 ---
 
