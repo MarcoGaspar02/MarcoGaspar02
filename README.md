@@ -71,7 +71,7 @@ Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhe
 
 ## 🛠️ Ferramentas que Uso
 
-[![My Skills](https://skillicons.dev/icons?i=flask,vue,react,python,js,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,vue,react,python,js,docker,arduino,azure,bitbucket,bootstrap,cypress,dotnet,electron,figma,gcp,githubactions,go,idea,ai,java,js,laravel,linux,mysql,nodejs,nuxtjs,obsidian,ps,postgres,postman,py,raspberrypi,react,swift,tauri,tensorflow,terraform,ubuntu,vite)](https://skillicons.dev)
 
 ---
 
