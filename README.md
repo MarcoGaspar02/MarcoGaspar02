@@ -65,7 +65,7 @@ Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhe
 
 ## 📈 GitHub Stats
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcotechdev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoGaspar02&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ---
 
