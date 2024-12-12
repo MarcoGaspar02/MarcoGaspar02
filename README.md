@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software
 
 ---
 
-## 📬 Como Entrar em Contato
+## 📬 Como Entrar em Contacto
 
 Você pode me encontrar ou me contactar através das seguintes plataformas:
 
