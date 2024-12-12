@@ -15,21 +15,52 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software
 
 ## 📬 Como Entrar em Contato
 
-Você pode me encontrar ou me contatar através das seguintes plataformas:
+Você pode me encontrar ou me contactar através das seguintes plataformas:
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/marco/) 📬
-- **Twitter**: [@marcotechdev](https://twitter.com/marcotechdev) 🐦
-- **E-mail**: [marco.dev@example.com](mailto:marco.dev@example.com) 📧
+- **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/marco/](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
 
 ---
 
 ## 🌍 Projetos em Destaque
 
-Aqui estão alguns projetos que estou trabalhando ou que já publiquei:
+Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhei:
 
-- 🔥 **[Plugin System Flask](https://github.com/marco/plugin-system-flask)**: Um sistema de plugins modular com backend em Flask para expandir funcionalidades facilmente.
-- 🔥 **[Vue.js Dynamic Plugin](https://github.com/marco/vue-dynamic-plugin)**: Um frontend em Vue.js que carrega funcionalidades dinamicamente, permitindo a extensão da aplicação sem recarregar a página.
+- 📦 **[PREF_EMBALAGEM DO FUTURO](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visuar processos e deus desvios com recurso a process mining e object-centric process mining.
+  Tecnologias:
+    - Flask
+    - NuxtJS
+    - PostgresSQL
+    - Docker
+    - Google Cloud Compute Engine 
+- 🔬 **[ScientificShares](https://github.com/marco/vue-dynamic-plugin](https://bitbucket.org/scientificshares/backend/src/main/))**: Plataforma de apoio á candidadtura a projetos de investigação e desenvolvimento científico.
+    Tecnologias:
+    - JavaEE
+    - NuxtJS
+    - PostgresSQL
+    - Docker
+    - Make
+- 💡 **[SmartSwitch (P2P)](https://github.com/barbeirok/M2MSmartSwitch)**: Software python que descobre equipamentos IoT controláveia ou controladores, sobre um mesmo padão na mesma rede, de forma transparente. 
+    Tecnologias:
+    - Python
+    - P2P
+    - ACME
+- 🏩 **[CareLine](https://github.com/ivoafonsobispo/careline)**: Plataforma de que visa automatizar o processo de triagem nas urgencias do serviço nacional de saúde, e apresenta um novo conceito para cosultas e entrega de medicamentos suportado por tecnologias de informação. 
+    Tecnologias:
+    - Spring Boot
+    - React
+    - IoS
+    - ESP8266 C++
+    - SIEM Elastic Search
 
+---
+
+## 🌍 Projetos Pessoais
+
+Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhei:
+
+- 📟 **[PluginCalculator](https://github.com/marco/plugin-system-flask](https://github.com/MarcoGaspar02/plugin_calculator))**: Projeto básico, que consiste numa calculadora, extendido com funcionalidades pelaadição de plugin python e vue.
+- 🌱 **[WatteringApp](https://github.com/MarcoGaspar02/WatteringApp)**: Sistema IoT de rega de jardins e campos agrícola, controlado por um smartphone.
+  
 ---
 
 ## 📈 GitHub Stats
