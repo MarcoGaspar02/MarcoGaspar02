@@ -13,9 +13,9 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software
 
 ---
 
-## 📬 Como Entrar em Contacto
+## 📬 Contactos
 
-Você pode me encontrar ou me contactar através das seguintes plataformas:
+Pode encontrar-me e contactar através das seguintes plataformas:
 
 - **LinkedIn**: [Marco Gaspar](https://www.linkedin.com/in/marco/](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
 
@@ -25,26 +25,27 @@ Você pode me encontrar ou me contactar através das seguintes plataformas:
 
 Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhei:
 
-- 📦 **[PREF_EMBALAGEM DO FUTURO](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visuar processos e deus desvios com recurso a process mining e object-centric process mining.
+- 📦 **[DSSIP_Embalagem do Futiro](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visualizar processos com Process Mining (PM) e Object-Centric Process Mining (OCPM). No decorrer deste projeto ainda surgiu o desenvolvimento de artefactos de análise de Variantes de processos para OCPM disponível em [object-centric-variant-explorer](https://github.com/MarcoGaspar02/object-centric-variant-explorer).
+
   Tecnologias:
     - Flask
     - NuxtJS
     - PostgresSQL
     - Docker
     - Google Cloud Compute Engine 
-- 🔬 **[ScientificShares](https://bitbucket.org/scientificshares/backend/src/main/)**: Plataforma de apoio á candidadtura a projetos de investigação e desenvolvimento científico.
+- 🔬 **[ScientificShares](https://bitbucket.org/scientificshares/backend/src/main/)**: Plataforma de apoio ao processo de candidadturas a projetos de investigação e desenvolvimento científico.
     Tecnologias:
     - JavaEE
     - NuxtJS
     - PostgresSQL
     - Docker
     - Make
-- 💡 **[SmartSwitch (P2P)](https://github.com/barbeirok/M2MSmartSwitch)**: Software python que descobre equipamentos IoT controláveia ou controladores, sobre um mesmo padão na mesma rede, de forma transparente. 
+- 💡 **[SmartSwitch (P2P)](https://github.com/barbeirok/M2MSmartSwitch)**: Software python para equipamentos IoT controláveis ou controladores, com principal objetivo de garantir interoperabilidade e transparência na adição de equipamentos a uma rede de IoTs. 
     Tecnologias:
     - Python
     - P2P
     - ACME
-- 🏩 **[CareLine](https://github.com/ivoafonsobispo/careline)**: Plataforma de que visa automatizar o processo de triagem nas urgencias do serviço nacional de saúde, e apresenta um novo conceito para cosultas e entrega de medicamentos suportado por tecnologias de informação. 
+- 🏩 **[CareLine](https://github.com/ivoafonsobispo/careline)**: Plataforma de que visa automatizar o processo de triagem nas urgências do serviço nacional de saúde, e apresenta um novo conceito para cosultas e entrega de medicamentos suportado por sistemas e tecnologias de informação. 
     Tecnologias:
     - Spring Boot
     - React
