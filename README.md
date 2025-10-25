@@ -1,12 +1,13 @@
 # Olá 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software** e **inovação**. Tenho experiência em várias áreas de desenvolvimento, incluindo **backend** (Flask, Spring, Java EE...), **frontend** (Vue.js, Nuxt.ja, React), **integração de APIs** e **procedimentos e scripts de tratamento de dados**.
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software** e **inovação**. Tenho experiência em várias áreas de desenvolvimento, incluindo **backend** (Flask, Spring, Java EE...), **frontend** (Vue.js, Nuxt.ja, React), **integração de APIs** e **procedimentos/scripts de tratamento de dados**.
 
-🔧 Gosto de explorar novas tendências em **arquiteturas de sistemas** e **experiência de utilizador e design**.
+🔧 Gosto de explorar novas tendências em arquiteturas de sistemas e experiência de utilizador. Encaro cada projeto como uma oportunidade de aprender algo novo e de aprofundar conceitos, especialmente nas áreas que exigem investigação e resolução de problemas complexos.
+Ultimamente, tenho aprofundado o meu interesse por práticas de DevOps e automação CI/CD.
 
 ## 📬 Contactos
 
-Pode encontrar-me e contactar através das seguintes plataformas:
+Pode encontrar-me e contactar-me através das seguintes plataformas:
 
 - **LinkedIn**: [Marco Gaspar](https://www.linkedin.com/in/marco/](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
 
@@ -47,10 +48,10 @@ Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
 
 ## 🌍 Projetos Pessoais
 
-Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhei:
-- 📃 **[Files Storage](https://github.com/MarcoGaspar02/sptingTests)**: API desenvolvida em spring boot com autenticação e upload/download de ficheiros. Envolve também a configuração de processos CI/CD por github workflows.  
+Aqui estão alguns projetos desenvolvidos para uso pessoal ou para aprofundar o meu conhecimento com as tecnologias e arquiteturas que englobam:
+- 📃 **[FilesStorage](https://github.com/MarcoGaspar02/sptingTests)**: API desenvolvida em spring boot com autenticação e upload/download de ficheiros. Envolve também a configuração de processos CI/CD por github workflows.  
 - 📟 **[PluginCalculator](https://github.com/marco/plugin-system-flask](https://github.com/MarcoGaspar02/plugin_calculator))**: Calculadora, extendido com funcionalidades pela  adição de plugin python e vue (Envolve uma aplicação Flask+plugin e Vue+plugin).
-- 🌱 **[WatteringApp](https://github.com/MarcoGaspar02/WatteringApp)**: Sistema de controlo de regas de jardins ou campos agrícola, controlado por um smartphone (Envolve uma aplicação para Android e um sistemas IoT programado em C++ para equipamentos ESP8266).
+- 🌱 **[WateringApp](https://github.com/MarcoGaspar02/WatteringApp)**: Sistema de controlo de regas de jardins ou campos agrícola, controlado por um smartphone (Envolve uma aplicação para Android e um sistemas IoT programado em C++ para equipamentos ESP8266).
   
 ---
 
@@ -62,7 +63,8 @@ Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhe
 
 ## 🛠️ Ferramentas que Uso
 
-[![My Skills](https://skillicons.dev/icons?i=flask,vue,react,python,js,docker,arduino,azure,bitbucket,bootstrap,cypress,dotnet,electron,figma,gcp,githubactions,go,idea,ai,java,js,laravel,linux,mysql,nodejs,nuxtjs,obsidian,ps,postgres,postman,py,raspberrypi,react,swift,tauri,tensorflow,terraform,ubuntu,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,go,swift,js,flask,laravel,spring,dotnet,react,vue,nuxtjs,bootstrap,vite,electron,tauri,docker,terraform,azure,gcp,linux,ubuntu,githubactions,gitlab,bitbucket,mysql,postgres,tensorflow,arduino,raspberrypi,idea,androidstudio,postman,obsidian,figma,ps,ai)](https://skillicons.dev)
+
 
 ---
 
