@@ -32,7 +32,7 @@ Aqui estão alguns projetos em que estou a trabalhando ou nos quais já trabalhe
     - PostgresSQL
     - Docker
     - Google Cloud Compute Engine 
-- 🔬 **[ScientificShares](https://github.com/marco/vue-dynamic-plugin](https://bitbucket.org/scientificshares/backend/src/main/))**: Plataforma de apoio á candidadtura a projetos de investigação e desenvolvimento científico.
+- 🔬 **[ScientificShares](https://bitbucket.org/scientificshares/backend/src/main/)**: Plataforma de apoio á candidadtura a projetos de investigação e desenvolvimento científico.
     Tecnologias:
     - JavaEE
     - NuxtJS
