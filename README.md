@@ -85,7 +85,7 @@ Aqui estão alguns projetos desenvolvidos para uso pessoal ou para aprofundar o 
 
 ---
 
-📝 **"A programação é uma arte, e cada linha de código é uma pincelada em uma obra-prima."**
+📝 **"A programação é uma arte, e cada linha de código é uma pincelada numa obra-prima."**
 
 ---
 
