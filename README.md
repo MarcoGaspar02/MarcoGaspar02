@@ -1,9 +1,14 @@
 # Olá 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por **tecnologia**, **software** e **inovação**. Tenho experiência em várias áreas de desenvolvimento, incluindo **backend** (Flask, Spring, Java EE...), **frontend** (Vue.js, Nuxt.ja, React), **integração de APIs** e **procedimentos/scripts de tratamento de dados**.
+Sou apaixonado por tecnologia, software e inovação. Tenho experiência em várias áreas de desenvolvimento, incluindo:
 
-🔧 Gosto de explorar novas tendências em arquiteturas de sistemas e experiência de utilizador. Encaro cada projeto como uma oportunidade de aprender algo novo e de aprofundar conceitos, especialmente nas áreas que exigem investigação e resolução de problemas complexos.
-Ultimamente, tenho aprofundado o meu interesse por práticas de DevOps e automação CI/CD.
+**Backend:** Flask, Spring, Java EE
+
+**Frontend:** Vue.js, Nuxt.js, React
+
+**Integração de APIs** e scripts de tratamento de dados
+
+🔧 Gosto de explorar novas tendências em arquiteturas de sistemas e experiência do utilizador. Cada projeto é uma oportunidade de aprender algo novo e aprofundar conceitos, especialmente em áreas que exigem investigação e resolução de problemas complexos. Atualmente, tenho explorado práticas de DevOps e automação CI/CD.
 
 ## 📬 Contactos
 
@@ -24,11 +29,11 @@ Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
     - PostgresSQL
     - Docker
     - Google Cloud Compute Engine 
-- 🔬 **[ScientificShares](https://bitbucket.org/scientificshares/backend/src/main/)**: Plataforma de apoio ao processo de candidadturas a projetos de investigação e desenvolvimento científico.
+- 🔬 **[ScientificShares](https://bitbucket.org/scientificshares/backend/src/main/)**: Plataforma de apoio ao processo de candidaturas a projetos de investigação e desenvolvimento científico.
     Tecnologias:
     - JavaEE
     - NuxtJS
-    - PostgresSQL
+    - PostgreSQL
     - Docker
     - Make
 - 💡 **[SmartSwitch (P2P)](https://github.com/barbeirok/M2MSmartSwitch)**: Software python para equipamentos IoT controláveis ou controladores, com principal objetivo de garantir interoperabilidade e transparência na adição de equipamentos a uma rede de IoTs. 
@@ -36,7 +41,7 @@ Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
     - Python
     - P2P
     - ACME
-- 🏩 **[CareLine](https://github.com/ivoafonsobispo/careline)**: Plataforma de que visa automatizar o processo de triagem nas urgências do serviço nacional de saúde, e apresenta um novo conceito para cosultas e entrega de medicamentos suportado por sistemas e tecnologias de informação. 
+- 🏩 **[CareLine](https://github.com/ivoafonsobispo/careline)**: Plataforma de que visa automatizar o processo de triagem nas urgências do serviço nacional de saúde, e apresenta um novo conceito para consultas e entrega de medicamentos suportado por sistemas e tecnologias de informação. 
     Tecnologias:
     - Spring Boot
     - React
