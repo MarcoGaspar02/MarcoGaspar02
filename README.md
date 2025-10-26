@@ -52,14 +52,16 @@ Aqui estão alguns projetos desenvolvidos para uso pessoal ou para aprofundar o 
 - 📃 **[FilesStorage](https://github.com/MarcoGaspar02/sptingTests)**: API desenvolvida em spring boot com autenticação e upload/download de ficheiros. Envolve também a configuração de processos CI/CD por github workflows.  
 - 📟 **[PluginCalculator](https://github.com/marco/plugin-system-flask](https://github.com/MarcoGaspar02/plugin_calculator))**: Calculadora, extendido com funcionalidades pela  adição de plugin python e vue (Envolve uma aplicação Flask+plugin e Vue+plugin).
 - 🌱 **[WateringApp](https://github.com/MarcoGaspar02/WateringApp)**: Sistema de controlo de regas de jardins ou campos agrícola, controlado por um smartphone (Envolve uma aplicação para Android e um sistemas IoT programado em C++ para equipamentos ESP8266).
-  
+
+<!--
 ---
 
 ## 📈 GitHub Stats
 
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoGaspar02&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Marco's GitHub Streak](https://streak-stats.demolab.com?user=MarcoGaspar02&theme=github-dark&hide_border=true)
 
 ---
+-->
 
 ## 🛠️ Ferramentas que Uso
 
