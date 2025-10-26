@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, software e inovação. Tenho experiência em vár
 
 Pode encontrar-me e contactar-me através das seguintes plataformas:
 
-- **LinkedIn**: [Marco Gaspar](https://www.linkedin.com/in/marco/](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
+- **LinkedIn**: [Marco Gaspar](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
 
 ---
 
