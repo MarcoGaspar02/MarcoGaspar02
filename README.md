@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, software e inovação. Tenho experiência em vár
 
 **Integração de APIs** e scripts de tratamento de dados
 
-🔧 Gosto de explorar novas tendências em arquiteturas de sistemas e experiência do utilizador. Cada projeto é uma oportunidade de aprender algo novo e aprofundar conceitos, especialmente em áreas que exigem investigação e resolução de problemas complexos. Atualmente, tenho explorado práticas de DevOps e automação CI/CD.
+Gosto de explorar novas tendências em arquiteturas de sistemas e experiência do utilizador. Cada projeto é uma oportunidade de aprender algo novo e aprofundar conceitos, especialmente em áreas que exigem investigação e resolução de problemas complexos. Atualmente, tenho explorado práticas de DevOps e automação CI/CD.
 
 ## 📬 Contactos
 
