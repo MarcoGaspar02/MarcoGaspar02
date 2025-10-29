@@ -2,7 +2,7 @@
 
 Sou apaixonado por tecnologia, software e inovação. Tenho experiência em várias áreas de desenvolvimento, incluindo:
 
-**Backend:** Flask, Spring, Java EE
+**Backend:** Flask, Spring, JavaEE
 
 **Frontend:** Vue.js, Nuxt.js, React
 
@@ -14,7 +14,8 @@ Gosto de explorar novas tendências em arquiteturas de sistemas e experiência d
 
 Pode encontrar-me e contactar-me através das seguintes plataformas:
 
-- **LinkedIn**: [Marco Gaspar](https://www.linkedin.com/in/marco-gaspar-757bb2261/)) 📬
+- [**LinkedIn**](https://www.linkedin.com/in/marco-gaspar-757bb2261/) 📬
+
 
 ---
 <a id="dssip"></a>
@@ -22,17 +23,17 @@ Pode encontrar-me e contactar-me através das seguintes plataformas:
 
 Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
 
-- 📦 **[DSSIP_Embalagem do Futiro](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visualizar processos com Process Mining (PM) e Object-Centric Process Mining (OCPM). No decorrer deste projeto ainda surgiu o desenvolvimento de artefactos de análise de Variantes de processos para OCPM disponível em [object-centric-variant-explorer](https://github.com/MarcoGaspar02/object-centric-variant-explorer).
+- 📦 **[DSSIP_Embalagem do Futuro](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visualizar processos com Process Mining (PM) e Object-Centric Process Mining (OCPM). No decorrer deste projeto ainda surgiu o desenvolvimento de artefactos de análise de Variantes de processos para OCPM disponível em [object-centric-variant-explorer](https://github.com/MarcoGaspar02/object-centric-variant-explorer).
   
   Artefactos:
-    - Componentes de fontrnd para desenho do explorador de variantes
+    - Componentes de frontend para desenho do explorador de variantes
     - API Flask que usa a biblioteca PM4Py
-    - Datawarehouse com duas tabelas de factos especificos para dados de processos e dados de relacionamento entre objetos
+    - Datawarehouse com duas tabelas de factos específicos para dados de processos e dados de relacionamento entre objetos
       
   Tecnologias:
     - Flask
     - NuxtJS
-    - PostgresSQL
+    - PostgreSQL
     - Docker
     - Google Cloud Compute Engine 
 - 🔬 **[ScientificShares](https://bitbucket.org/scientificshares/backend/src/main/)**: Plataforma de apoio ao processo de candidaturas a projetos de investigação e desenvolvimento científico.
@@ -51,9 +52,9 @@ Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
     Tecnologias:
     - Spring Boot
     - React
-    - IoS
+    - iOS
     - ESP8266 C++
-    - SIEM Elastic Search
+    - SIEM Elasticsearch
 
 ---
 
@@ -61,8 +62,8 @@ Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
 
 Aqui estão alguns projetos desenvolvidos para uso pessoal ou para aprofundar o meu conhecimento com as tecnologias e arquiteturas que englobam:
 - 📃 **[FilesStorage](https://github.com/MarcoGaspar02/sptingTests)**: API desenvolvida em spring boot com autenticação e upload/download de ficheiros. Envolve também a configuração de processos CI/CD por github workflows.  
-- 📟 **[PluginCalculator](https://github.com/marco/plugin-system-flask](https://github.com/MarcoGaspar02/plugin_calculator))**: Calculadora, extendido com funcionalidades pela  adição de plugin python e vue (Envolve uma aplicação Flask+plugin e Vue+plugin).
-- 🌱 **[WateringApp](https://github.com/MarcoGaspar02/WateringApp)**: Sistema de controlo de regas de jardins ou campos agrícola, controlado por um smartphone (Envolve uma aplicação para Android e um sistemas IoT programado em C++ para equipamentos ESP8266).
+- 📟 **[PluginCalculator](https://github.com/marco/plugin-system-flask](https://github.com/MarcoGaspar02/plugin_calculator))**: Calculadora, estendido com funcionalidades pela  adição de plugin python e vue (Envolve uma aplicação Flask+plugin e Vue+plugin).
+- 🌱 **[WateringApp](https://github.com/MarcoGaspar02/WateringApp)**: Sistema de controlo de regas de jardins ou campos agrícola, controlado por um smartphone (Envolve uma aplicação para Android e um sistema IoT programado em C++ para equipamentos ESP8266).
 
 <!--
 ---
@@ -87,7 +88,7 @@ Aqui estão alguns projetos desenvolvidos para uso pessoal ou para aprofundar o 
 
 ---
 
-🔭 Sempre em busca de novos desafios e oportunidades de aprender. Se gosta de tecnologia ou tem uma ideia interessante para um projeto, entre em contato! 💬
+🔭 Sempre em busca de novos desafios e oportunidades de aprender. Se gosta de tecnologia ou tem uma ideia interessante para um projeto, entre em contacto! 💬
 
 ---
 
