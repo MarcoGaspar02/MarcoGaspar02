@@ -19,10 +19,10 @@ Pode encontrar-me e contactar-me através das seguintes plataformas:
 ---
 
 ## 🌍 Projetos em Destaque
-
+<a id="dssip"></a>
 Aqui estão alguns projetos em que estou a trabalhar ou nos quais já trabalhei:
 
-- <a id="dssip"></a>📦 **[DSSIP_Embalagem do Futiro](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visualizar processos com Process Mining (PM) e Object-Centric Process Mining (OCPM). No decorrer deste projeto ainda surgiu o desenvolvimento de artefactos de análise de Variantes de processos para OCPM disponível em [object-centric-variant-explorer](https://github.com/MarcoGaspar02/object-centric-variant-explorer).
+- 📦 **[DSSIP_Embalagem do Futiro](https://github.com/barbeirok/EmbalagemInteligente)**: Plataforma de apoio ao analista de dados, que pretende monitorizar encomendas em tempo real, dados sumarizados e históricos e visualizar processos com Process Mining (PM) e Object-Centric Process Mining (OCPM). No decorrer deste projeto ainda surgiu o desenvolvimento de artefactos de análise de Variantes de processos para OCPM disponível em [object-centric-variant-explorer](https://github.com/MarcoGaspar02/object-centric-variant-explorer).
   
   Artefactos:
     - Componentes de fontrnd para desenho do explorador de variantes
